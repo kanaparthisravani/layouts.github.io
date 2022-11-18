@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/phone-background-with-blurred-lights_79603-521.jpg?w=360&t=st=1668737253~exp=1668737853~hmac=97489accffb2e2bc36508e23c0e107a484481ebdbfbb89627aff267806b59c3b");
+    height: 120vh;
+    background-size: cover;
+}
+.mobilehead{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 25px;
+}
+.layoutcard{
+    background-color: white;
+    border-radius: 8px;
+    padding: 18px;
+    margin: 15px;
+}
+.brandscont{
+    color:#041836;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandspara{
+    color: #6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}   
+.brandimg{
+    width: 100px;
+    height: 100px;
+}
